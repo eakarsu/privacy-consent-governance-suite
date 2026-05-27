@@ -18,3 +18,14 @@
 - Profiles
 - AI Assistant
 - AI Tools
+
+## Privacy DSAR Automation
+
+- DSAR Requests
+- Data Map
+- Privacy Ticketing
+- Consent Evidence
+
+## Focused enhancement: Privacy DSAR Automation
+
+Source evidence: AIGDPRDataMappingPrivacyManager.

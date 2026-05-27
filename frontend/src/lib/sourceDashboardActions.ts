@@ -8,4 +8,21 @@ export type SourceDashboardAction = {
   count: number;
 };
 
-export const sourceDashboardActions: SourceDashboardAction[] = [];
+export const sourceDashboardActions: SourceDashboardAction[] = [
+  {
+    "id": "privacy-dsar-automation",
+    "label": "Privacy DSAR Automation",
+    "description": "Open Privacy DSAR Automation workflows elevated from AIGDPRDataMappingPrivacyManager.",
+    "href": "/dsar-requests",
+    "sourceProjects": [
+      "AIGDPRDataMappingPrivacyManager"
+    ],
+    "examples": [
+      "DSAR Requests",
+      "Data Map",
+      "Privacy Ticketing",
+      "Consent Evidence"
+    ],
+    "count": 1
+  }
+];

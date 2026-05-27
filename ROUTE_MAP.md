@@ -7,6 +7,10 @@ Primary routes:
 - `/profiles`
 
 Feature routes:
+- `/consent-evidence`
+- `/privacy-ticketing`
+- `/data-map`
+- `/dsar-requests`
 - `/consents`
 - `/data-subjects`
 - `/requests`
